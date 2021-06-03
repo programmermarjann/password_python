@@ -1,0 +1,10 @@
+#def password(string):
+print('Hello, enter the password')
+
+pasww = input()
+if pasww == 'swordfish':
+    print('Access granted')
+    
+    
+    else:
+         print('Access granted')
